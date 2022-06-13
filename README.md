@@ -13,4 +13,5 @@ Next, you use notebook [two](https://github.com/Halifaxi/Covid-Reproducible/blob
 
 Because of ProQuest's rules, I am avoiding putting the saved article data in the repo. So the only way to complete notebook five is to use all of the steps as outlined above. 
 
+Message me for further information.
 
